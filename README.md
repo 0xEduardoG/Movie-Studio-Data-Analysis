@@ -1,4 +1,4 @@
-![img](images/download-1.png)     ![img](images/download.jpg)
+![img](./images/download-1.png)     ![img](./images/download.jpg)
 
 # Data Analysis on Movies
 
@@ -36,13 +36,13 @@ This project delves into an extensive exploratory analysis of Movie data to obse
 
 ## Results
 
-![img](images/Top_Genres_Award_Winning_Vs_Total_IMDb.png)
+![img](./images/Top_Genres_Award_Winning_Vs_Total_IMDb.png)
 
-![img](images/Comparison_of_movie_runtimes.png)
+![img](./images/Comparison_of_movie_runtimes.png)
 
-![img](images/Screenshot_2023-09-14_104635.png)
+![img](./images/Screenshot_2023-09-14_104635.png)
 
-![img](images/Screenshot_2023-09-14_105047.png)
+![img](./images/Screenshot_2023-09-14_105047.png)
 
 
 ## Conclusions
