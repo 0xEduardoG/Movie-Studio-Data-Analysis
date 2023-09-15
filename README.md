@@ -35,13 +35,13 @@ This project delves into an extensive exploratory analysis of Movie data to obse
 
 ## Results
 
-![img](./images/Top_Genres_Award_Winning_Vs_Total_IMDb.png)
+![img]((https://github.com/0xEduardoG/Movie-Studio-Data-Analysis/blob/main/Images/Top_Genres_Award_Winning_Vs_Total_IMDb.png))
 
-![img](/Users/lkimball/Desktop/Flatiron/Movie-Studio-Data-Analysis/Images/Comparison_of_movie_runtimes.png)
+![img]((https://github.com/0xEduardoG/Movie-Studio-Data-Analysis/blob/main/Images/Comparison_of_movie_runtimes.png))
 
-![img](./images/Screenshot_2023-09-14_104635.png)
+![img](https://github.com/0xEduardoG/Movie-Studio-Data-Analysis/blob/main/Images/Screenshot_2023-09-14_104635.png)
 
-![img](./images/Screenshot_2023-09-14_105047.png)
+![img](https://github.com/0xEduardoG/Movie-Studio-Data-Analysis/blob/main/Images/Screenshot_2023-09-14_105047.png)
 
 
 ## Conclusions
