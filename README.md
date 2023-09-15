@@ -72,19 +72,13 @@ For any additional questions, please contact us:
 
 ## Repository Structure
 
-
-
 ```
-├── code
-│   ├── __init__.py
-│   ├── Cleaning_Aviation_Data.ipynb
-│   └── Visualizing_Aviation_Data.ipynb
 ├── images
+├── EDA-Movie-Studios.ipynb
 ├── README.md
 ├── .gitignore
 ├── Movie_Project_Presentation.pdf
 └── EDA-Movie-Studios.pdf
-
 ```
 
 
