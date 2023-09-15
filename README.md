@@ -62,7 +62,7 @@ Meryl Streep, Dustin Hoffman, and Tom Hanks are most awarded actors/actresses th
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook]() or our [presentation](./Movie_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./EDA-Movie-Studios.pdf) or our [presentation](./Movie_Project_Presentation.pdf).
 
 For any additional questions, please contact us:
 
@@ -79,14 +79,12 @@ For any additional questions, please contact us:
 │   ├── __init__.py
 │   ├── Cleaning_Aviation_Data.ipynb
 │   └── Visualizing_Aviation_Data.ipynb
-├── data
-│   ├── AviationData.csv
-│   ├── Piper_Cessna_Passengers_aviation.csv
-│   └── cleaned_aviation.csv
 ├── images
 ├── README.md
 ├── .gitignore
-└── Aircraft_Safety_Presentation.pdf
+├── Movie_Project_Presentation.pdf
+└── EDA-Movie-Studios.pdf
+
 ```
 
 
