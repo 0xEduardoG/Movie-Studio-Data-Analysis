@@ -1,4 +1,3 @@
-![img](./images/download-1.png)     ![img](./images/download.jpg)
 
 # Data Analysis on Movies
 
@@ -38,7 +37,7 @@ This project delves into an extensive exploratory analysis of Movie data to obse
 
 ![img](./images/Top_Genres_Award_Winning_Vs_Total_IMDb.png)
 
-![img](./images/Comparison_of_movie_runtimes.png)
+![img](/Users/lkimball/Desktop/Flatiron/Movie-Studio-Data-Analysis/Images/Comparison_of_movie_runtimes.png)
 
 ![img](./images/Screenshot_2023-09-14_104635.png)
 
@@ -71,7 +70,24 @@ For any additional questions, please contact us:
 
 
 
+## Repository Structure
 
+
+
+```
+├── code
+│   ├── __init__.py
+│   ├── Cleaning_Aviation_Data.ipynb
+│   └── Visualizing_Aviation_Data.ipynb
+├── data
+│   ├── AviationData.csv
+│   ├── Piper_Cessna_Passengers_aviation.csv
+│   └── cleaned_aviation.csv
+├── images
+├── README.md
+├── .gitignore
+└── Aircraft_Safety_Presentation.pdf
+```
 
 
 
