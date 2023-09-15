@@ -74,6 +74,7 @@ For any additional questions, please contact us:
 
 ```
 ├── images
+
 ├── EDA-Movie-Studios.ipynb
 ├── README.md
 ├── .gitignore
